@@ -1,0 +1,215 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: white
+    
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    
+}
+
+a{
+    display: inline-block;
+    color: black;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.container{
+    display: flex;
+    margin: 0;
+    max-width: 1000px;
+    justify-content: center;
+   
+   
+}
+
+img{
+    margin: 10px; 
+          
+}
+
+.container-guia{
+    background-color: rgb(9, 9, 138);
+    display: flex;
+    justify-content: center;
+    
+}
+
+.logo{
+    margin: 10px;
+    margin-left: 30px;
+}
+
+.guia{
+    margin-top: 90px;
+    margin-right: 60px;
+    text-align: center;
+    color: white;
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+    line-height: 10px;
+    
+}
+
+.amarillo{
+    color: yellow;
+    
+}
+
+.lo-mas-jugado{
+    width: 1000px;
+    height: 200px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.subtitulo-1{
+    margin-left: 350px;
+    font-family: 'Amatic SC', cursive;
+}
+
+
+.texto-1{
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    
+    
+    
+    
+}
+
+.solar{
+    margin-left: 217px;
+    padding-right: 30px;
+    margin-top: 1px;
+        
+}
+
+.descripcion{
+    margin-top: 0px;
+    margin-bottom: 3px;
+}
+
+.button-i{
+    border-radius: 25px;
+    padding: 3px 10px;
+    color: white;
+    border: none;
+    box-shadow: 2px 2px 2px 2px gray;
+}
+
+.b-blue{
+    background-color: rgb(63, 9, 114);
+}
+
+.b-orange{
+    background-color: orange;
+}
+
+.b-green{
+    background-color: green;
+}
+
+.linea-horizontal{
+    color: black;
+    width: 1000px;
+    
+}
+
+.container-recomendados{
+    width: 1000px;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    
+    
+}
+
+.image{
+    width: 100%;
+    border-radius: 30px 30px 0 0;
+    margin: auto;
+    
+    
+}
+
+.card{
+    text-align: center;
+    width: 200px;
+    margin: 30px;
+    box-shadow: 0px 0px 4px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 30px 30px 0 0;
+    border: blue solid;
+    border: 1px solid rgba(0,0,0,0.1);
+}
+
+.subtitulo-2{
+    margin-left: 180px;
+    font-family: 'Amatic SC', cursive;
+    margin-top: 30px;
+}
+
+footer{
+    background-color: rgb(26, 26, 116);
+}
+
+footer{
+    background-color: rgb(14, 14, 114);
+    margin-top: 40px;
+}
+
+.container-pie{
+    display: flex;
+    width: 1000px;
+    height: 80px;
+    justify-content: center;
+  
+    
+}
+
+.gamer{
+    color: white;
+    margin-top: 25px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 20px;
+}
+
+.logo-pie{
+    width: 40px;
+    height: 40px;
+    margin-top: 19px;
+   
+}
+
+.suscribite{
+    color: white;
+    font-family: 'Amatic SC', cursive;
+    font-size: 20px;
+    margin: 1px;
+    margin-top: 5px;
+}
+
+.btn{
+    margin-top: 2px;
+    background-color: yellow;
+    border-radius: 10px;
+}
+
+.container-box{
+    padding-left: 500px;
+}
+
+.card-info{
+    padding: 0 20px 20px 20px;
+}
+
